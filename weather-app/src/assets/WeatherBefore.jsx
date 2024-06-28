@@ -53,8 +53,11 @@ function WeatherHome(){
                 <img id='weatherIcon' ref={imageElementRef} /> 
             </div>
         </div>
+
         </>
     )
 }
+
+// just adding comments
 
  
